@@ -772,7 +772,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 @font-face {
   font-family: "Gotham Book";
 
-  src: url("../public/GothamBook.ttf");
+  src: url("GothamBook.ttf");
 }
 
 * {
